@@ -36,3 +36,7 @@ int main() {
     cout << "\n";
   }
 }
+
+//Time Complexity: O(N*M + N*M)
+
+//Space Complexity: O(N)
